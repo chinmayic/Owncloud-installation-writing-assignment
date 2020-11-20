@@ -28,7 +28,7 @@ This guide helps you to quickly get started with administrator and user tasks on
 ### Configure
 
 ### Add a user account
-1. Log on to the ownCloud web interface with the admin credentials.
+1. Log in to the ownCloud web interface with the admin credentials.
 1. Navigate to **Users** page.
 2. Enter the new user’s **Login Name** and **E-Mail**.
 3. Optionally, assign **Groups**.
@@ -36,9 +36,9 @@ This guide helps you to quickly get started with administrator and user tasks on
 
 ## User tasks
 ### Connect to the ownCloud server
-1. Download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page; there are clients for Linux, macOS, and Microsoft Windows.
+1. Download the latest version of the ownCloud Desktop Synchronization Client from the [ownCloud download page](https://owncloud.com/download/#desktop-clients); there are clients for Linux, macOS, and Microsoft Windows.
 2. Double-click the downloaded program file to launch the installation wizard.
-3. Follow the steps provided in the [Installation wizard](https://doc.owncloud.com/desktop/2.6/installing.html#installation-wizard). 
+3. Follow the steps provided in the [Installation wizard](https://doc.owncloud.com/desktop/2.6/installing.html#installation-wizard).<br>
    After the ownCloud Desktop Synchronization Client successfully connects to the ownCloud server, it will automatically start synchronizing your files.
  
 
