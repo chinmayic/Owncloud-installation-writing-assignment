@@ -13,7 +13,7 @@
 
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
 <br>
-This guide helps you to quickly get started with administrator and user tasks on ownCloud. [ownCloud Docker image]
+This guide helps you to quickly get started with administrator and user tasks on ownCloud.
 ## Admin tasks
 ### Install
 1. You can install ownCloud manually or with Docker, using the official [ownCloud Docker image](https://hub.docker.com/r/owncloud/server/tags).<br>
