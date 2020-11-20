@@ -1,5 +1,6 @@
 # Quickstart
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
+
 This guide helps you to quickly get started with administrator and user tasks on ownCloud.
 ## Admin tasks
 ### Install
@@ -11,7 +12,9 @@ This guide helps you to quickly get started with administrator and user tasks on
    2. Download the latest version of ownCloud and install.
    3. Configure Apache web server and restart it.
    4. Run the Graphical installation wizard or install from the command-line.
+   
 ### Configure
+
 ### Add a user account
 1. Navigate to **Users** page.
 2. Enter the new user’s **Login Name** and **E-Mail**.
