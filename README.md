@@ -1,12 +1,12 @@
 # Quickstart
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
-
+<br>
 This guide helps you to quickly get started with administrator and user tasks on ownCloud.
 ## Admin tasks
 ### Install
-1. You can install ownCloud manually or with Docker, using the official ownCloud Docker image.
+1. You can install ownCloud manually or with Docker, using the official (ownCloud Docker image) [https://hub.docker.com/r/owncloud/server/tags].<br>
    Note: Before starting the installation, see System Requirements.
-2. To install using the Docker image, see information provided at .
+2. To install using the Docker image, see (Installing with Docker) [https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/].
 3. To install manually, do the following:
    1. Install the required packages.
    2. Download the latest version of ownCloud and install.
