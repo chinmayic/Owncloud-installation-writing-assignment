@@ -1,1 +1,2 @@
-# Owncloud-installation-writing-assignment
+# Set up
+## As an administrator
