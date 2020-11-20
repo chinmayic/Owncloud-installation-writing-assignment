@@ -13,21 +13,22 @@
 
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
 <br>
-This guide helps you to quickly get started with administrator and user tasks on ownCloud. [Redfish® Scalable Platforms API (Redfish) specification 1.8.0](http://redfish.dmtf.org/schemas/DSP0266_1.8.0.pdf)
+This guide helps you to quickly get started with administrator and user tasks on ownCloud. [ownCloud Docker image]
 ## Admin tasks
 ### Install
-1. You can install ownCloud manually or with Docker, using the official [ownCloud Docker image] (https://hub.docker.com/r/owncloud/server/tags).<br>
-   Note: Before starting the installation, see [System Requirements] (https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).
-2. To install using the Docker image, see [Installing with Docker] (https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/).
+1. You can install ownCloud manually or with Docker, using the official [ownCloud Docker image](https://hub.docker.com/r/owncloud/server/tags).<br>
+   Note: Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).
+2. To install using the Docker image, see [Installing with Docker](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/).
 3. To install manually, do the following:
-   1. Install the required packages.
-   2. Download the latest version of ownCloud and install.
-   3. Configure Apache web server and restart it.
-   4. Run the Graphical installation wizard or install from the command-line.
+   1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
+   2. [Download the latest version of ownCloud and install](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-owncloud).
+   3. [Configure Apache web server](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#configure-the-web-server) and restart it.
+   4. [Run the Graphical installation wizard](https://doc.owncloud.org/server/10.5/admin_manual/installation/installation_wizard.html) or [install from the command-line](https://doc.owncloud.org/server/10.5/admin_manual/installation/command_line_installation.html).
    
 ### Configure
 
 ### Add a user account
+1. Log on to the ownCloud web interface with the admin credentials.
 1. Navigate to **Users** page.
 2. Enter the new user’s **Login Name** and **E-Mail**.
 3. Optionally, assign **Groups**.
@@ -37,7 +38,7 @@ This guide helps you to quickly get started with administrator and user tasks on
 ### Connect to the ownCloud server
 1. Download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page; there are clients for Linux, macOS, and Microsoft Windows.
 2. Double-click the downloaded program file to launch the installation wizard.
-3. Follow the steps provided in the "Installation wizard" section in the user manual. 
+3. Follow the steps provided in the [Installation wizard](https://doc.owncloud.com/desktop/2.6/installing.html#installation-wizard). 
    After the ownCloud Desktop Synchronization Client successfully connects to the ownCloud server, it will automatically start synchronizing your files.
  
 
