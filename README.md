@@ -1,6 +1,30 @@
-# Set up
-## As an administrator
-## Welcome to GitHub Pages
+# Quickstart
+Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
+This guide helps you to quickly get started with administrator and user tasks on ownCloud.
+## Admin tasks
+### Install
+1. You can install ownCloud manually or with Docker, using the official ownCloud Docker image.
+   Note: Before starting the installation, see System Requirements.
+2. To install using the Docker image, see information provided at .
+3. To install manually, do the following:
+   1. Install the required packages.
+   2. Download the latest version of ownCloud and install.
+   3. Configure Apache web server and restart it.
+   4. Run the Graphical installation wizard or install from the command-line.
+### Configure
+### Add a user account
+1. Navigate to **Users** page.
+2. Enter the new user’s **Login Name** and **E-Mail**.
+3. Optionally, assign **Groups**.
+4. Click the **Create** button.
+## User tasks
+### Connect to the ownCloud server
+1. Download the latest version of the ownCloud Desktop Synchronization Client from the ownCloud download page; there are clients for Linux, macOS, and Microsoft Windows.
+2. Double-click the downloaded program file to launch the installation wizard.
+3. Follow the steps provided in the "Installation wizard" section in the user manual. 
+   After the ownCloud Desktop Synchronization Client successfully connects to the ownCloud server, it will automatically start synchronizing your files.
+ 
+
 
 You can use the [editor on GitHub](https://github.com/chinmayic/Owncloud-installation-writing-assignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
