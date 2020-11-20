@@ -13,7 +13,7 @@
 
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
 <br>
-This guide helps you to quickly get started with administrator and user tasks on ownCloud.
+This guide helps you to quickly get started with administrator and user tasks on ownCloud. [Redfish® Scalable Platforms API (Redfish) specification 1.8.0](http://redfish.dmtf.org/schemas/DSP0266_1.8.0.pdf)
 ## Admin tasks
 ### Install
 1. You can install ownCloud manually or with Docker, using the official [ownCloud Docker image] (https://hub.docker.com/r/owncloud/server/tags).<br>
