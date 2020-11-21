@@ -37,8 +37,7 @@ ownCloud allows you to:
 
 ### Add a user account
 1. Log in to the ownCloud web interface with the admin credentials.
-2. Navigate to **Users** page.
-![Users page](/Images/Users_page.jpg)
+2. Navigate to **Users** page. ![Users page](/Images/Users_page.jpg)
 3. Enter the new user’s **Login Name** and **E-Mail**.
 4. Optionally, assign **Groups**.
 5. Click the **Create** button.
