@@ -9,7 +9,7 @@ This guide helps you to quickly get started with administrative and user-related
     >**NOTE:**
      Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).
 1. To install using the Docker image, see [Installing with Docker](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/).
-1. To install manually, do the following:
+1. To install manually, perform the following steps:
      1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
      1. [Download the latest version of ownCloud and install](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-owncloud).
      1. [Configure Apache web server](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#configure-the-web-server) and restart it.
@@ -23,6 +23,11 @@ ownCloud allows you to:
 - [Enable and disable encryption on the ownCloud server using the encryption app](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/encryption/root.html).
 - [Configure external storage](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/external_storage/).
 - [Manage users and groups](https://doc.owncloud.org/server/10.5/admin_manual/configuration/user/).
+
+#### Enable users to connect to the ownCloud server
+To enable a user to connect to the ownCloud server using IP address and port, do the following:
+1. Open the `config/config.php` file to edit.
+2. Change the value of the `overwritehost` parameter to `<server IP address or hostname>:<port>`. Example: `10.0.1.25:8080`
 
 
 ### Add a user account
