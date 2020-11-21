@@ -23,9 +23,17 @@ This guide helps you to quickly get started with administrator and user tasks on
    1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
    2. [Download the latest version of ownCloud and install](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-owncloud).
    3. [Configure Apache web server](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#configure-the-web-server) and restart it.
-   4. [Run the Graphical installation wizard](https://doc.owncloud.org/server/10.5/admin_manual/installation/installation_wizard.html) or [install from the command-line](https://doc.owncloud.org/server/10.5/admin_manual/installation/command_line_installation.html).
+   4. Run the [Graphical installation wizard](https://doc.owncloud.org/server/10.5/admin_manual/installation/installation_wizard.html) or install from the [command-line](https://doc.owncloud.org/server/10.5/admin_manual/installation/command_line_installation.html).
    
 ### Configure
+ownCloud allows you to:
+1. [Configure the ownCloud server](https://doc.owncloud.org/server/10.5/admin_manual/configuration/server/).
+2. [Convert your database type](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/db_conversion.html).
+3. [Configure database on Linux](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/linux_database_configuration.html).
+4. [Enable and disable encryption on the ownCloud server using the encryption app](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/encryption/root.html).
+5. [Configure external storage](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/external_storage/).
+6. [Manage users and groups](https://doc.owncloud.org/server/10.5/admin_manual/configuration/user/).
+
 
 ### Add a user account
 1. Log in to the ownCloud web interface with the admin credentials.
@@ -38,7 +46,7 @@ This guide helps you to quickly get started with administrator and user tasks on
 ### Connect to the ownCloud server
 1. Download the latest version of the ownCloud Desktop Synchronization Client from the [ownCloud download page](https://owncloud.com/download/#desktop-clients); there are clients for Linux, macOS, and Microsoft Windows.
 2. Double-click the downloaded program file to launch the installation wizard.
-3. Follow the steps provided in the [Installation wizard](https://doc.owncloud.com/desktop/2.6/installing.html#installation-wizard).<br>
+3. [Run the installation wizard](https://doc.owncloud.com/desktop/2.6/installing.html#installation-wizard).<br>
    After the ownCloud Desktop Synchronization Client successfully connects to the ownCloud server, it will automatically start synchronizing your files.
  
 
