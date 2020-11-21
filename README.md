@@ -27,7 +27,7 @@ ownCloud allows you to:
 #### Enable users to connect to the ownCloud server
 To enable a user to connect to the ownCloud server using IP address and port, do the following:
 1. Open the `config/config.php` file to edit.
-2. Change the value of the `overwritehost` parameter to `<server IP address or hostname>:<port>`. Example: `10.0.1.25:8080`
+2. Change the value of the `overwritehost` parameter to **<server IP address or hostname>:<port>**. Example: _*10.0.1.25:8080*_
 
 
 ### Add a user account
