@@ -30,7 +30,7 @@ To enable a user to connect to the ownCloud server using IP address and port, do
 2. Change the value of the `overwritehost` parameter to **[server IP address or hostname]:[port]**. Example: 10.0.1.25:8080
 
 
-### Add a user account
+#### Add a user account
 1. Log in to the ownCloud web interface with the admin username and password.
 2. Navigate to **Users** page.
 
