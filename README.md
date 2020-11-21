@@ -40,6 +40,7 @@ ownCloud allows you to:
 2. Navigate to **Users** page.
 ![Users page](/Images/Users_page.jpg)
 3. Enter the new user’s **Login Name** and **E-Mail**.
+![Users page](/Images/users-page-new-user.png)
 4. Optionally, assign **Groups**.
 5. Click the **Create** button.
 
