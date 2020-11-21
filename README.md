@@ -17,7 +17,12 @@ This guide helps you to quickly get started with administrator and user tasks on
 ## Admin tasks
 ### Install
 1. You can install ownCloud manually or with Docker, using the official [ownCloud Docker image](https://hub.docker.com/r/owncloud/server/tags).<br>
-   <aside class="note">Note: Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).</aside>
+    | | |
+    |-|-|
+    |`NOTE` | Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).|
+
+    ---
+   Note: Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).
 2. To install using the Docker image, see [Installing with Docker](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/).
 3. To install manually, do the following:
      1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
