@@ -1,4 +1,4 @@
-# Quickstart
+# ownCloud Quickstart
 
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
 <br>
@@ -26,7 +26,7 @@ ownCloud allows you to:
 
 
 ### Add a user account
-1. Log in to the ownCloud web interface with the admin credentials.
+1. Log in to the ownCloud web interface with the admin username and password.
 2. Navigate to **Users** page.
 
    ![Users page](/Images/users_page.png)
