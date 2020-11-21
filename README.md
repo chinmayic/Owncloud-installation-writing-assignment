@@ -20,19 +20,19 @@ This guide helps you to quickly get started with administrator and user tasks on
    Note: Before starting the installation, see [System Requirements](https://doc.owncloud.org/server/10.5/admin_manual/installation/system_requirements.html).
 2. To install using the Docker image, see [Installing with Docker](https://doc.owncloud.org/server/10.5/admin_manual/installation/docker/).
 3. To install manually, do the following:
-   1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
-   2. [Download the latest version of ownCloud and install](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-owncloud).
-   3. [Configure Apache web server](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#configure-the-web-server) and restart it.
-   4. Run the [Graphical installation wizard](https://doc.owncloud.org/server/10.5/admin_manual/installation/installation_wizard.html) or install from the [command-line](https://doc.owncloud.org/server/10.5/admin_manual/installation/command_line_installation.html).
+     1. [Install the required packages](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-the-required-packages).
+     2. [Download the latest version of ownCloud and install](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#install-owncloud).
+     3. [Configure Apache web server](https://doc.owncloud.org/server/10.5/admin_manual/installation/manual_installation.html#configure-the-web-server) and restart it.
+     4. Run the [Graphical installation wizard](https://doc.owncloud.org/server/10.5/admin_manual/installation/installation_wizard.html) or install from the [command-line](https://doc.owncloud.org/server/10.5/admin_manual/installation/command_line_installation.html).
    
 ### Configure
 ownCloud allows you to:
-1. [Configure the ownCloud server](https://doc.owncloud.org/server/10.5/admin_manual/configuration/server/).
-2. [Convert your database type](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/db_conversion.html).
-3. [Configure database on Linux](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/linux_database_configuration.html).
-4. [Enable and disable encryption on the ownCloud server using the encryption app](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/encryption/root.html).
-5. [Configure external storage](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/external_storage/).
-6. [Manage users and groups](https://doc.owncloud.org/server/10.5/admin_manual/configuration/user/).
+- [Configure the ownCloud server](https://doc.owncloud.org/server/10.5/admin_manual/configuration/server/).
+- [Convert your database type](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/db_conversion.html).
+- [Configure database on Linux](https://doc.owncloud.org/server/10.5/admin_manual/configuration/database/linux_database_configuration.html).
+- [Enable and disable encryption on the ownCloud server using the encryption app](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/encryption/root.html).
+- [Configure external storage](https://doc.owncloud.org/server/10.5/admin_manual/configuration/files/external_storage/).
+- [Manage users and groups](https://doc.owncloud.org/server/10.5/admin_manual/configuration/user/).
 
 
 ### Add a user account
