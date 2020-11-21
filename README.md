@@ -1,4 +1,4 @@
-   ## TOC
+  **TOC**
   * [Admin tasks](#admin-tasks)
     + [Install](#install)
     + [Configure](#configure)
