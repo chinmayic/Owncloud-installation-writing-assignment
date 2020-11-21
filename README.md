@@ -1,16 +1,4 @@
-  **TOC**
-  * [Admin tasks](#admin-tasks)
-    + [Install](#install)
-    + [Configure](#configure)
-    + [Add a user account](#add-a-user-account)
-  * [User tasks](#user-tasks)
-    + [Connect to the ownCloud server](#connect-to-the-owncloud-server)
-
-
-
-
-<br>
-<br>
+# Quickstart
 
 Welcome to ownCloud: a one-stop solution for file synchronization and sharing.
 <br>
